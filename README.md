@@ -18,4 +18,4 @@ Linux or macOS
 Bash shell
 
 ## Project URL
-https://github.com/xfy0012/service-start
+https://roadmap.sh/projects/server-stats
